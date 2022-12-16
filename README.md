@@ -1,0 +1,2 @@
+# AditiclassPractice
+Practice kaggle models
